@@ -70,7 +70,7 @@ This project demonstrates the practical application of SQL for solving real-worl
 ---
 
 ## 📬 Contact
-**Sahith Kotaru**  
+**Venkata Sahith Kotaru**  
 B.Tech – Data Science  
 Open to Data Analytics / Data base Internships
 
